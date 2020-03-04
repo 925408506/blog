@@ -18,7 +18,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <spring.version>5.0.8.RELEASE</spring.version>
-    <springmvc.jackson>2.9.5</springmvc.jackson>
+    <springmvc.jackson>2.10.3</springmvc.jackson>
     <pagehelper.version>5.1.2-beta</pagehelper.version>
   </properties>
 
